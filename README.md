@@ -3,7 +3,7 @@
 # Introduction
 The Diwali Sales Analysis Project aims to Analyse Sales Data From a retailer company. The goal is to insights into Customer Experience and improve sales performance.
 
-#Dataset
+# Dataset
 The analysis is based on a dataset provided by the retail company. The dataset contains information such as sales transactions, customer demographics, product details, and Sates.
 
 # Analysis
